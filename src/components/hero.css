@@ -1,0 +1,6 @@
+.bgimg{
+  background-image: url("../img/website/bg-slate.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
