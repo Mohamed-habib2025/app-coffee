@@ -62,7 +62,6 @@ function Appbanner() {
               </a>
             </div>
           </div>
-
         </div>
       </div>
     </div>
